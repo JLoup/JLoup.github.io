@@ -1,0 +1,21 @@
+{
+"skills_label": "Skills",
+"skills_rows": [
+{
+ "skill": "English",
+ "description": "Fluent - TOEIC score 920/990 (May 2010)"
+},
+{
+ "skill": "Langage",
+ "description": "C, C++, Python, Ruby on Rails (work practice). Go, Javascript"
+},
+{
+ "skill": "Embedded",
+ "description": "low level debugging (memory dump, gdb server, assembly tracing)"
+},
+{
+ "skill": "Versioning, review tools",
+  "description": "git, gerrit"
+}
+]
+}

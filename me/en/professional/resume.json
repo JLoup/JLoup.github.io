@@ -1,0 +1,92 @@
+{
+  "experience_label": "Work History",
+  "experience_rows": [
+  {
+	  "years": "Dec. 2018 - now",
+          "job": "Backend Engineer",
+          "company": "Savitar",
+          "job_projects": [
+    {
+		  "project": "Cryptocurrency exchange backend development",
+	    "tasks": [
+		    {
+			    "description": "Responsible for all backend code from trading engine to blockain interfaces"
+		    }
+		  ]
+	  }
+	  ],
+	  "city": "Paris, France"
+  }, 
+  {
+	  "years": "Feb. 2017 - Dec. 2018",
+          "job": "Backend Engineer",
+          "company": "Trainline (ex Capitaine Train)",
+          "job_projects": [
+    {
+		  "project": "Connection to germany train carriers",
+	    "tasks": [
+		    {
+			    "description": "Maintenance of API connection to Deutsche Bahn reservation system"
+		    }
+		  ]
+	  },
+    {
+		  "project": "Train disruption engine.",
+	          "tasks": [
+		  {
+			  "description": "Implementation of train delay detection for Swiss rails (GTFS)"
+		  }
+		  ]
+	  }
+	  ],
+	  "city": "Paris, France"
+  }, 
+  {
+	  "years": "Nov. 2012 - Jan. 2017",
+          "job": "Embedded Software Engineer",
+          "company": "Parrot",
+          "job_projects": [
+      {
+		  "project": "Applicative firmware and linux SDK for TV/radio reception chip (C/C++)",
+	          "tasks": [
+		  {
+			  "description": "architecturing and development of firmware on SPARC/uCOS platform"
+		  },
+        {
+          "description": "linux SDK for client applications"
+        }
+		  ]
+	  },
+     {
+		  "project": "System level software for SPARC architecture (assembly, C)",
+	          "tasks": [
+		  {
+           "description": "system level drivers development (irq controller, clock driver, uart)"
+		  },	 
+        {
+			  "description": "build and customize a toolchain (gcc) to cross-compile code for custom implementation of SPARC"
+		  }
+		  ]
+	  }
+	  ],
+	  "city": "Paris, France"
+  }, 
+  {
+	  "years": "Feb. - Jul. 2012",
+  	  "duration": "6 months",
+          "job": "Instrumentation Intern",
+          "company": "Sagem Défense Sécurité",
+          "job_projects": [
+	  {
+		  "project": "Conception of an automated test bench for gyrolasers",
+	          "tasks": [
+		  {
+			  "description": "National Instruments hardware choosing and Labview development"
+		  }
+		  ]
+	  }
+	  ],
+	  "city": "Argentueil, France"
+  }
+  ]
+}

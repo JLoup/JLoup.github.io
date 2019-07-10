@@ -1,0 +1,213 @@
+#resume {
+font-family: Palatino;
+font-size: 0.38cm;
+margin-left: auto;
+margin-right: auto;
+width:21cm; 
+height:29.7cm;
+position: relative;
+padding: 0;
+/*overflow:  hidden;*/
+}
+
+i {
+margin-right: 10px;
+}
+
+a {
+text-decoration: none;
+color: rgb(5, 70, 205);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.fa-git {
+position: relative;
+top: 2px;
+}
+
+#vertical-lign {
+ height: 100%;
+ width: 1px;
+ border-right: solid rgb(215, 215, 215) 2px;
+ position: absolute;
+ top: -10px;
+ left: 180px;
+}
+
+#top {
+position: relative;
+padding-top: 20px;
+padding-left: 20px;
+border-bottom: solid rgb(215, 215, 215) 2px;
+padding-right: 20px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+z-index: 10;
+}
+
+#content {
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+position: relative;
+}
+
+#header {
+height: 150px;
+margin-bottom: 30px;
+}
+
+.space {
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+h1 {
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+h2 {
+	font-size: 1.1em;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	margin-top: 0;
+}
+
+#name {
+margin-top: 0;
+margin-bottom: 0;
+font-size: 2em;
+margin-bottom: 10px;
+text-transform: none;
+border: none;
+color: black;
+}
+
+#header p {
+margin-bottom: 5px;
+font-size: 0.9em;
+margin-top: 0;
+margin-bottom: 5px;
+}
+
+li {
+list-style-position: inside;
+list-style: none;
+margin-bottom: 3px;
+margin-top: 3px;
+line-height: 15px;
+}
+
+ul {
+padding: 0;
+margin: 0;
+}
+
+#header .right {
+position: absolute;
+right: 10px;
+}
+
+div .column {
+display: inline-block;
+vertical-align: top;
+}
+
+.section {
+  font-size: 0.85em;
+}
+
+.section .left {
+margin-right: 50px;
+width: 162px;
+text-transform: uppercase;
+font-weight: 900;
+font-size: 0.9em;
+}
+
+.section .right {
+width: 70%;
+}
+
+.section .city {
+	text-align: right;
+	font-style: italic;
+	margin-bottom: 5px;
+	position: relative;
+	bottom: 5px;
+}
+
+#section .row {
+position: relative;
+margin-bottom: 10px;
+}
+
+#experience .project-title {
+	font-weight: 900;
+	font-size: 0.9em;
+	color: rgb(80, 80, 80);
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-transform: uppercase;
+}
+
+.section-title > * {
+  display: inline-block;
+}
+
+.section-title .fa {
+font-size: 1.2em;
+}
+
+#experience .projects {
+	margin-bottom: 15px;
+	margin-top: 5px;
+	font-size: 1em;
+}
+
+#experience .company-name {
+text-transform: uppercase;
+font-size: 0.9em;
+}
+
+.section-subtitle {
+font-size: 1.2em;
+font-weight: 900;
+}
+
+#skills .left{
+text-transform: capitalize;
+}
+
+#skills p {
+margin: 0;
+padding: 0;
+}
+
+#hobby p {
+margin: 0;
+padding: 0;
+}
+
+#hobby {
+margin-top: 20px;
+}
+
+#hobby .left{
+text-transform: capitalize;
+}
+
+
+.circle {
+        display: inline-block;
+	position: absolute;
+	left: 177px;
+	color: rgb(215, 215, 215);
+}

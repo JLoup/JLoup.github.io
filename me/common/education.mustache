@@ -1,0 +1,20 @@
+<div class="section" id="education">
+<div class="section-title"><i class="fa fa-graduation-cap"></i><h2>{{education_label}}</h2></div>
+{{#education_rows}}
+  <div class="row">
+    <div class="column left">
+      <div>{{years}}</div>
+    </div>
+    <i class="circle fa fa-circle"></i>
+    <div class="column right">
+      <div class="section-subtitle">{{{school}}}</div>
+      <ul>
+      {{#tasks}}
+        <li>{{description}}</li>
+      {{/tasks}}
+      </ul>
+      <p class="city">{{city}}</p>
+    </div>
+  </div>
+{{/education_rows}}
+</div>

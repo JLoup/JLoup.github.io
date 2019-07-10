@@ -1,0 +1,19 @@
+{
+"firstname": "Jean-Loup",
+"lastname": "Jamet",
+"email": "jeanloup.jamet@gmail.com",
+"phone": {"number": "+336-31-59-93-47",
+	  "label": "phone"},
+"street": "75 Blvd Richard Lenoir",
+"zipcode": "75011",
+"city": "Paris",
+"country": "France",
+"title": "Software Engineer",
+"age": "29 years",
+"nationality": "French",
+"pic": {"src": "picture.jpg", 
+	"height": "150", 
+	"width": "150"},
+"github": "github.com/JLoup",
+"en_pdf": "http://JLoup.github.io/pdf/en/JLoupJamet.pdf"
+}

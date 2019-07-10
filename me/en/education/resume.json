@@ -1,0 +1,19 @@
+{
+"education_label": "Education",
+"education_rows": [
+{
+	"school": "Université de Montréal", 
+	"years": "2011-2012", 
+	"tasks": [{
+		"description": "Exchange student in the department of physics - Introduction to nuclear physics"}],
+	"city": "Montréal, Canada"
+},	
+{
+	"school": "Institut National des Sciences Appliquées <em>(five-year engineering school)</em>", 
+	"years": "2007-2012", 
+	"tasks": [{
+		"description": "Graduation in physics of materials, measurement and instrumentation"}],
+        "city": "Toulouse, France"
+}	
+]
+}

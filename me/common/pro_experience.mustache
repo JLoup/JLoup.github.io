@@ -1,0 +1,26 @@
+<div class="section" id="experience">
+<div class="section-title"><i class="fa fa-briefcase"></i><h2>{{experience_label}}</h2></div>
+{{#experience_rows}}
+  <div class="row">
+    <div class="column left">
+      <div>{{years}}</div>
+    </div>
+    <i class="circle fa fa-circle"></i>
+    <div class="column right">
+      <div class="section-subtitle">{{job}} - <span class="company-name">{{company}}</span></div>
+      <div>{{subnote}}</div>
+      {{#job_projects}}
+      <div class="projects">
+        <p class="project-title">{{project}}</p>
+        <ul class="tasks">
+          {{#tasks}}
+            <li>{{description}}</li>
+          {{/tasks}}
+        </ul>
+      </div>
+      {{/job_projects}}
+      <p class="city">{{city}}</p>
+    </div>
+  </div>
+{{/experience_rows}}
+</div>
